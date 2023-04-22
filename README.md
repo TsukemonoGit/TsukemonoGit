@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+|service|identifer|link|
+|-------|---------|----|
+|Nostr| npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw |[[link]](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw "Nostr")|
+|Bluesky| did:plc:7zjrdl4upwvj7gwghrpdwjwe |[[link]](https://staging.bsky.app/profile/mono.bsky.social "Bluesky")|
+
 <!--
 **TsukemonoGit/TsukemonoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
