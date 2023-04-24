@@ -2,10 +2,10 @@
 
 |service|identifer|link|
 |-------|---------|----|
-|Nostr (メイン)| npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw |[[link]](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw "Nostr")|
-|Nostr (なんもわからん)| npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26 |[[link]](https://nostx.shino3.net/npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26 "Nostr")|
-|Bluesky (メイン)| did:plc:z3b55nrewd3if33267sd2hu4 |[[link]](https://staging.bsky.app/profile/did:plc:z3b55nrewd3if33267sd2hu4 "Bluesky")|
-|Bluesky (てきとう)| did:plc:7zjrdl4upwvj7gwghrpdwjwe |[[link]](https://staging.bsky.app/profile/did:plc:7zjrdl4upwvj7gwghrpdwjwe "Bluesky")|
+|Nostr (メイン)| npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw | <a rel="me" href="https://nostter.vercel.app/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw">[link]</a>|
+|Nostr (なんもわからん)| npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26 |<a rel="me" href="https://nostter.vercel.app/npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26">[link]</a>|
+|Bluesky (メイン)| did:plc:z3b55nrewd3if33267sd2hu4 |<a rel="me" href="https://staging.bsky.app/profile/did:plc:z3b55nrewd3if33267sd2hu4">[link]</a>|
+|Bluesky (てきとう)| did:plc:7zjrdl4upwvj7gwghrpdwjwe |<a rel="me" href="https://staging.bsky.app/profile/did:plc:7zjrdl4upwvj7gwghrpdwjwe">[link]</a>|
 
 <!--
 **TsukemonoGit/TsukemonoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
