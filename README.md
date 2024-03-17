@@ -1,9 +1,18 @@
-### Hi there 👋
 
+### Hi there 👋
+<!--
 |service|identifer|link|
 |-------|---------|----|
 |Nostr (メイン)| npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw | <a rel="me" href="https://nostter.vercel.app/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw">[link]</a>|
 |Nostr (なんもわからん)| npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26 |<a rel="me" href="https://nostter.vercel.app/npub12egp0pvh2f0fp6sk5nt6ncehqzkz8zsma8dl8agf8p3f98v6resqku4w26">[link]</a>|
+
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsukemonoGit&theme=nord&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukemonoGit&hide=html,c,c%2B%2B,css&theme=nord)
+-->
 
 <!--
 |Bluesky (メイン)| did:plc:z3b55nrewd3if33267sd2hu4 |<a rel="me" href="https://staging.bsky.app/profile/did:plc:z3b55nrewd3if33267sd2hu4">[link]</a>|
