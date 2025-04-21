@@ -1,5 +1,7 @@
 
 ### Hi there 👋
+
+![nostr_profile](https://nostr-profile.vercel.app/api/profile/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 <!--
 |service|identifer|link|
 |-------|---------|----|
