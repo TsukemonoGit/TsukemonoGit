@@ -2,6 +2,8 @@
 ### Hi there 👋
 
 ![nostr_profile](https://nostr-profile.vercel.app/api/profile/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+
+[![でばっぐ神社](https://d-shrine.jp/badgeGo?user=TsukemonoGit)](https://d-shrine.jp/u/TsukemonoGit)
 <!--
 |service|identifer|link|
 |-------|---------|----|
