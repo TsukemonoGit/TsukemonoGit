@@ -1,9 +1,21 @@
-
 ### Hi there 👋
 
 ![nostr_profile](https://nostr-profile.vercel.app/api/profile/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 
 [![でばっぐ神社](https://d-shrine.jp/badgeGo?user=TsukemonoGit)](https://d-shrine.jp/u/TsukemonoGit)
+
+I develop tools for the [Nostr](https://github.com/nostr-protocol/nostr) ecosystem.
+
+### PGP
+
+Fingerprint:
+
+```
+A1BE43D4D3652003DDCDE2B51315465964A12F71
+```
+
+- Public key (GitHub): https://github.com/TsukemonoGit.gpg
+- Public key (keys.openpgp.org): https://keys.openpgp.org/vks/v1/by-fingerprint/A1BE43D4D3652003DDCDE2B51315465964A12F71
 <!--
 |service|identifer|link|
 |-------|---------|----|
