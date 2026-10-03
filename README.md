@@ -15,7 +15,6 @@ A1BE43D4D3652003DDCDE2B51315465964A12F71
 ```
 
 - Public key (GitHub): https://github.com/TsukemonoGit.gpg
-- Public key (keys.openpgp.org): https://keys.openpgp.org/vks/v1/by-fingerprint/A1BE43D4D3652003DDCDE2B51315465964A12F71
 <!--
 |service|identifer|link|
 |-------|---------|----|
